@@ -24,6 +24,7 @@ Security practitioner working both sides. I break things in Hack The Box labs, t
 - 🧪 **On this GitHub:**
   - 🛠️ Post-exploitation tooling: loot collection and credential-reuse testing
   - 💥 Proof-of-concept exploits for published CVEs, with the root cause and the fix
+  - 🛡️ Detection and remediation scripts for new CVEs, ready for Intune or an RMM
 
 <div align="center">
 
@@ -44,6 +45,7 @@ Security practitioner working both sides. I break things in Hack The Box labs, t
 |:--:|---|---|
 | 🔴 | **[reap](https://github.com/Cobrastrike62/reap)** | Post-exploitation after a foothold: finds secrets and privesc paths, tests every credential against every service, ranks what to do next. Python operator, Go agent |
 | 🔴 | **[CVE-2026-27626-POC](https://github.com/Cobrastrike62/CVE-2026-27626-POC)** | Root cause and working PoC for OliveTin's password-argument command injection (CVSS 9.9), plus how to fix it |
+| 🔵 | **[CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection)** | Fleet detection (PowerShell and Python) and Store-update remediation for the Windows Paint RCE (CVSS 8.1), built for Intune Remediations |
 
 ---
 
