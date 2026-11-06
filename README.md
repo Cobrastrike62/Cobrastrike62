@@ -40,13 +40,6 @@ Security practitioner working both sides. I break things in Hack The Box labs, t
 
 ## 🗂️ Featured Work
 
-<div align="center">
-
-<a href="https://github.com/Cobrastrike62/reap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cobrastrike62&repo=reap&theme=github_dark&hide_border=true" alt="reap" /></a>
-<a href="https://github.com/Cobrastrike62/CVE-2026-27626-POC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Cobrastrike62&repo=CVE-2026-27626-POC&theme=github_dark&hide_border=true" alt="CVE-2026-27626-POC" /></a>
-
-</div>
-
 | | Project | What it shows |
 |:--:|---|---|
 | 🔴 | **[reap](https://github.com/Cobrastrike62/reap)** | Post-exploitation after a foothold: finds secrets and privesc paths, tests every credential against every service, ranks what to do next. Python operator, Go agent |
@@ -77,17 +70,6 @@ Security practitioner working both sides. I break things in Hack The Box labs, t
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-
-</div>
-
----
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cobrastrike62&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobrastrike62&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 
 </div>
 
